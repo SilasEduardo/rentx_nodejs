@@ -1,0 +1,3 @@
+mudule.export = {
+  singleQuote: false,
+}
