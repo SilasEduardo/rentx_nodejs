@@ -4,11 +4,11 @@ const app = express();
 
 app.use(express.json());
 
-
-
 app.get('/', (req, res)=> {
   res.send('tudo certo')
 })
+
+
 
 
 app.listen(3333, ()=> {
